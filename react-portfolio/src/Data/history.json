@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Student",
+    "organisation": "LEARN",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["Javascript, React, Jest and RSpec, PostgreSQL, Ruby on Rails, Git "],
+    "imageSrc": "history/learn.png"
+  },
+  {
+    "roll": "Student",
+    "organization": "CodeUp",
+    "startDate": "Oct, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": ["Javascript", "HTML", "CSS", "Bootstrap", "API", "Git"],
+    "imageSrc": "history/codeup.png"
+  }
+]
