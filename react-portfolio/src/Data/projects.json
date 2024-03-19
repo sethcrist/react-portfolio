@@ -1,26 +1,58 @@
 [
   {
-    "title": "",
-    "imageSrc": "",
-    "description": "",
-    "skills": "",
+    "title": "Pokédex Project",
+    "imageSrc": "Projects/poke.png",
+    "description": "User can search for a Pokemon and have it appear with its stats and what type it is.",
+    "skills": ["JavaScript", "CSS", "HTML"],
     "demo": "",
-    "source": ""
+    "source": "https://github.com/sethcrist/pokedex-project"
   },
   {
-    "title": "",
-    "imageSrc": "",
-    "description": "",
-    "skills": "",
+    "title": "Coffee Project",
+    "imageSrc": "Projects/coffee.png",
+    "description": "User can search for a coffee and add a custom coffee to the list.",
+    "skills": ["JavaScript", "CSS", "HTML"],
     "demo": "",
-    "source": ""
+    "source": "https://github.com/sethcrist/new-coffee-project"
   },
   {
-    "title": "",
-    "imageSrc": "",
-    "description": "",
-    "skills": "",
+    "title": "Bob's Burgers Characters",
+    "imageSrc": "Projects/bobs.png",
+    "description": "Users can search for characters in the TV show using an API to fetch the data. The characters populate with a brief history about them.",
+    "skills": ["Svelte", "HTML", "CSS", "JavaScript", "TypeScript"],
     "demo": "",
-    "source": ""
+    "source": "https://github.com/sethcrist/Bobs-burgers-svelte"
+  },
+  {
+    "title": "Practicing Fluid Fields",
+    "imageSrc": "Projects/fluid-field.png",
+    "description": "This showcases how fluid fields can wrap around letters, creating a work of art.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "",
+    "source": "https://github.com/sethcrist/fluid-fields"
+  },
+  {
+    "title": "Making it Rain",
+    "imageSrc": "Projects/rain.png",
+    "description": "Code falls randomly like in the move The Matrix",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "",
+    "source": "https://github.com/sethcrist/codeup-web-exercises"
+  },
+  {
+    "title": "Particle Text",
+    "imageSrc": "Projects/particle-text.png",
+    "description": "User can type in a sentence and have the text scatter around when the mouse hovers over it, the text then reforms creating the sentence.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "",
+    "source": "https://github.com/sethcrist/codeup-web-exercises"
+  },
+  {
+    "title": "Tic Tac Toe",
+    "imageSrc": "Projects/tic-tac.png",
+    "description": "2 Users can play Tic Tac Toe with each other.",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "demo": "",
+    "source": "https://github.com/sethcrist/tic-tac-toe"
   }
 ]
