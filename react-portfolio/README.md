@@ -10,5 +10,5 @@ Currently, two official plugins are available:
 ## TODO 
 - Change my user images
 - change the introduction about myself
-- increase JS and Ruby image size to 75x75
-- hamburger menu disappearing when full screen
+- add a faris wheel so user can click arrow and see all projects
+- add demos of my work and apply them to the demo section
