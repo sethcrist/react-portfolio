@@ -8,5 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## TODO 
-- Add favicon img
-- 
+- Change my user images
+- change the introduction about myself
+- increase JS and Ruby image size to 75x75
+- hamburger menu disappearing when full screen

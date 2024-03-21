@@ -1,7 +1,7 @@
 [
   {
     "title": "Pokédex Project",
-    "imageSrc": "Projects/poke.png",
+    "image": "projects/poke.png",
     "description": "User can search for a Pokemon and have it appear with its stats and what type it is.",
     "skills": ["JavaScript", "CSS", "HTML"],
     "demo": "",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Coffee Project",
-    "imageSrc": "Projects/coffee.png",
+    "image": "projects/coffee.png",
     "description": "User can search for a coffee and add a custom coffee to the list.",
     "skills": ["JavaScript", "CSS", "HTML"],
     "demo": "",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Bob's Burgers Characters",
-    "imageSrc": "Projects/bobs.png",
+    "image": "projects/bobs.png",
     "description": "Users can search for characters in the TV show using an API to fetch the data. The characters populate with a brief history about them.",
     "skills": ["Svelte", "HTML", "CSS", "JavaScript", "TypeScript"],
     "demo": "",
@@ -25,7 +25,7 @@
   },
   {
     "title": "Practicing Fluid Fields",
-    "imageSrc": "Projects/fluid-field.png",
+    "image": "projects/fluid-field.png",
     "description": "This showcases how fluid fields can wrap around letters, creating a work of art.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "",
@@ -33,7 +33,7 @@
   },
   {
     "title": "Making it Rain",
-    "imageSrc": "Projects/rain.png",
+    "image": "projects/rain.png",
     "description": "Code falls randomly like in the move The Matrix",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "",
@@ -41,7 +41,7 @@
   },
   {
     "title": "Particle Text",
-    "imageSrc": "Projects/particle-text.png",
+    "image": "projects/particle-text.png",
     "description": "User can type in a sentence and have the text scatter around when the mouse hovers over it, the text then reforms creating the sentence.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "",
@@ -49,8 +49,8 @@
   },
   {
     "title": "Tic Tac Toe",
-    "imageSrc": "Projects/tic-tac.png",
-    "description": "2 Users can play Tic Tac Toe with each other.",
+    "image": "projects/tic-tac.png",
+    "description": "2 Users can play Tic Tac Toe with each other. Clicking the Play Again button will clear the board",
     "skills": ["HTML", "CSS", "JavaScript", "React"],
     "demo": "",
     "source": "https://github.com/sethcrist/tic-tac-toe"
