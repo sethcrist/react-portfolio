@@ -28,6 +28,7 @@
 .aboutImage {
     width: 15%;
     border-radius: 100%;
+    margin-right: 40px;
 }
 
 .aboutItems {
@@ -46,7 +47,7 @@
     padding: 25px;
     background-image: linear-gradient(
         90deg,
-        rgba(165, 215, 232, 0.42) 0%,
+        rgba(154, 211, 231, 0.42) 0%,
         rgba(255, 255, 255, 0) 100%
     );
     background-size: 0 100%;

@@ -22,5 +22,9 @@
   {
     "title": "Rails",
     "imageSrc": "skills/rails.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/sql.png"
   }
 ]

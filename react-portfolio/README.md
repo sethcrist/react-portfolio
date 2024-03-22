@@ -9,6 +9,8 @@ Currently, two official plugins are available:
 
 ## TODO 
 - Change my user images
-- change the introduction about myself
-- add a faris wheel so user can click arrow and see all projects
+- add a carousel slider so user can click arrow and see all projects
+- add a hover to the links
 - add demos of my work and apply them to the demo section
+- stationary nav bar
+- experience flips like a coin when hovered

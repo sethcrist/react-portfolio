@@ -34,10 +34,10 @@
   {
     "title": "Making it Rain",
     "image": "projects/rain.png",
-    "description": "Code falls randomly like in the move The Matrix",
+    "description": "Code falls randomly like in the movie The Matrix",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "",
-    "source": "https://github.com/sethcrist/codeup-web-exercises"
+    "source": "https://github.com/sethcrist/falling-code"
   },
   {
     "title": "Particle Text",
@@ -45,7 +45,7 @@
     "description": "User can type in a sentence and have the text scatter around when the mouse hovers over it, the text then reforms creating the sentence.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "",
-    "source": "https://github.com/sethcrist/codeup-web-exercises"
+    "source": "https://github.com/sethcrist/particle-text"
   },
   {
     "title": "Tic Tac Toe",

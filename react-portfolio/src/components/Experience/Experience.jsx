@@ -3,12 +3,13 @@ import skills from "../../Data/skills.json"
 import history from "../../Data/history.json"
 import styles from "./Experience.module.css"
 import {getImageUrl} from "../../utils.js";
+import ShimmerText from "../Shimmer/ShimmerText.jsx";
 
 
 export const Experience = () => {
     return (
         <section className={styles.container} id="experience">
-            <h2 className={styles.title}>Experience</h2>
+            <h2 className={styles.title}><ShimmerText>Experience</ShimmerText></h2>
             <div className={styles.content}>
                 <div className={styles.skills}>
                     {skills.map((skills, id) => {

@@ -1,11 +1,12 @@
 import React from 'react';
 import {getImageUrl} from "../../utils.js";
 import styles from "./About.module.css"
+import ShimmerText from "../Shimmer/ShimmerText.jsx";
 
 export const About = () => {
     return (
         <section className={styles.container} id="about">
-            <h2 className={styles.title}>About</h2>
+            <h2 className={styles.title}><ShimmerText>About</ShimmerText></h2>
             <div className={styles.content}>
                 <img src={getImageUrl("about/about.png")} alt="sitting with a laptop" className={styles.aboutImage}/>
                 <ul className={styles.aboutItems}>
@@ -13,21 +14,21 @@ export const About = () => {
                         <img src={getImageUrl("about/cursorIcon.png")} alt="cursor icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Frontend Developer</h3>
-                            <p>I'm a frontend developer with experience in building optimized and reactive sites</p>
+                            <p>I Utilize HTML, CSS, and JavaScript to turn design concepts into interactive, visually appealing web pages that users interact with directly. These web pages are reactive with different screen sizes.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/serverIcon.png")} alt="server icon"/>
                         <div className={styles.aboutItemText}>
                             <h3>Backend Developer</h3>
-                            <p>I have experience in developing fast and optimised websites as well as using APIs</p>
+                            <p>I have experience in leveraging APIs for seamless data interchange, managing sophisticated databases with PostgreSQL, and adapting various development frameworks to engineer robust web solutions.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/uiIcon.png")} alt="ui icon"/>
                         <div className={styles.aboutItemText}>
                             <h3>UI Developer</h3>
-                            <p>I have designed and styled multiple websites using bootstrap and CSS</p>
+                            <p>I have collaborated with peers on designing and styling multiple websites HTML, CSS, and JavaScript frameworks to ensure that the interface is attractive and align with user expectations.</p>
                         </div>
                     </li>
                 </ul>
