@@ -44,7 +44,20 @@
     justify-content: center;
     width: 120px;
     height: 120px;
+    transition: transform 0.5s ease;
+    transform-style: preserve-3d;
+    transform: perspective(1000px);
 }
+
+.skillImageContainer:hover {
+    transform: perspective(1000px) matrix3d(
+            1.2, 0, 0, 0,
+            0, 1.2, 0, 0,
+            0.2, -0.2, 1, 0.001,
+            0, 0, 200, 1
+    );
+}
+
 
 .skillImageContainer img {
     width: 75px;
