@@ -1,12 +1,10 @@
 import React from 'react';
 import {getImageUrl} from "../../utils.js";
 import styles from "./About.module.css"
-import ShimmerText from "../Shimmer/ShimmerText.jsx";
-
 export const About = () => {
     return (
         <section className={styles.container} id="about">
-            <h2 className={styles.title}><ShimmerText>About</ShimmerText></h2>
+            <h2 className={styles.title}>About</h2>
             <div className={styles.content}>
                 <img src={getImageUrl("about/about.png")} alt="sitting with a laptop" className={styles.aboutImage}/>
                 <ul className={styles.aboutItems}>

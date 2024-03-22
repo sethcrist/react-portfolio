@@ -9,7 +9,4 @@ Currently, two official plugins are available:
 
 ## TODO 
 - Change my user images
-- add a carousel slider so user can click arrow and see all projects
-- add a hover to the links
-- add demos of my work and apply them to the demo section
-- fixed nav bar
+
