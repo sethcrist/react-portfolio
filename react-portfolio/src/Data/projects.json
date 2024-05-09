@@ -1,5 +1,29 @@
 [
   {
+    "title": "Spooky-Space",
+    "image": "projects/spooky-space.png",
+    "description": "Users can create an account or sign in to an existing account, they can see a multitude of horror movies that are being rendered via an external Api. Users can also rate and leave a comment that other users can see.",
+    "skills": ["TMDB API", "React", "Rails"],
+    "demo": "https://spooky-space-frontend.onrender.com/",
+    "source": "https://github.com/Spooky-space"
+  },
+  {
+    "title": "Homestead Living",
+    "image": "projects/homestead.png",
+    "description": "Users can create an account or sign in to an existing account, they can see available homesteads for rent or create a listing if they want to rent their homestead. This website uses a Google maps API that shows users a map of the available homesteads.",
+    "skills": ["Google Maps API", "React", "Rails"],
+    "demo": "",
+    "source": "https://github.com/learn-academy-2024-alpha/apartment-app-frontend-ryan-and-seth-apt-app"
+  },
+  {
+    "title": "Cat-Tinder",
+    "image": "projects/cat.png",
+    "description": "Like the popular website Tinder, users can swipe on a cats image and connect with that cat. If users hover over a cats image the card will flip showing the cats age and what they like to do.",
+    "skills": ["React", "CSS"],
+    "demo": "",
+    "source": "https://github.com/learn-academy-2024-alpha/cat-tinder-frontend-purrrfect_match_seth_matt"
+  },
+  {
     "title": "Pokédex Project",
     "image": "projects/poke.png",
     "description": "User can search for a Pokemon and have it appear with its stats and what type it is.",
@@ -16,12 +40,12 @@
     "source": "https://github.com/sethcrist/new-coffee-project"
   },
   {
-    "title": "Bob's Burgers Characters",
-    "image": "projects/bobs.png",
-    "description": "Users can search for characters in the TV show using an API to fetch the data. The characters populate with a brief history about them.",
-    "skills": ["Svelte", "HTML", "CSS", "JavaScript", "TypeScript"],
+    "title": "Tic Tac Toe",
+    "image": "projects/tic-tac.png",
+    "description": "2 Users can play Tic Tac Toe with each other. Clicking the Play Again button will clear the board",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
     "demo": "",
-    "source": "https://github.com/sethcrist/Bobs-burgers-svelte"
+    "source": "https://github.com/sethcrist/tic-tac-toe"
   },
   {
     "title": "Practicing Fluid Fields",
@@ -48,11 +72,11 @@
     "source": "https://github.com/sethcrist/particle-text"
   },
   {
-    "title": "Tic Tac Toe",
-    "image": "projects/tic-tac.png",
-    "description": "2 Users can play Tic Tac Toe with each other. Clicking the Play Again button will clear the board",
-    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "title": "Bob's Burgers Characters",
+    "image": "projects/bobs.png",
+    "description": "Users can search for characters in the TV show using an API to fetch the data. The characters populate with a brief history about them.",
+    "skills": ["Svelte", "HTML", "CSS", "JavaScript", "TypeScript"],
     "demo": "",
-    "source": "https://github.com/sethcrist/tic-tac-toe"
+    "source": "https://github.com/sethcrist/Bobs-burgers-svelte"
   }
 ]
