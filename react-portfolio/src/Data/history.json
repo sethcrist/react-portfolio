@@ -3,7 +3,7 @@
     "role": "Student",
     "organisation": "LEARN",
     "startDate": "Jan, 2024",
-    "endDate": "Present",
+    "endDate": "May, 2024",
     "experiences": ["Javascript", "React", "Jest and RSpec", "PostgreSQL", "Ruby on Rails", "Git"],
     "imageSrc": "history/learn.png"
   },
